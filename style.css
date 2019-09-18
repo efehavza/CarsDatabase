@@ -1,0 +1,152 @@
+#wrapper
+{
+    width:70%;
+    margin:auto;
+
+}
+
+.nav-bar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav-bar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav-bar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.nav-bar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.car-image {
+    max-width:50%;
+    max-height:50%;
+}
+
+
+.container {
+    margin-top: 50px;
+}
+
+.tims-logo {
+    width: 10%;
+}
+
+.right-tab {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+}
+
+.input-field {
+    margin: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 20px;
+    padding: 5px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+.labels {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    padding: 5px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-left: 1000px;
+    margin-top: 150px;
+}
+
+.submit-button {
+    padding: 10px;
+    width: 80px;
+    background-color: gray;
+    border-radius: 4px;
+    font-family: 'Ubuntu', sans-serif;
+    align-content: center;
+    margin-left: 40px;
+
+}
+
+.heading {
+    color: gray();
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.front-car-image {
+    width: 100%;
+}
+
+.image-container {
+    position: relative;
+    font-family: Arial;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+.welcome-heading {
+    text-align: center;
+}
+
+
+
+h2 {
+    margin-left: -100px;
+}
+
+@media screen and (max-width: 520px) {
+
+    .labels {
+        width: 100%;
+        text-align: left;
+    }
+
+    .right-tab {
+        width: 80%;
+        float: left;
+    }
+
+    .input-field {
+        width: 100%;
+    }
+
+    .submit-button {
+        padding: 10px;
+        width: 80px;
+        background-color: gray;
+        border-radius: 4px;
+        align-content: center;
+        margin-left: 140px;
+    }
+
+    h2 {
+        margin-left: -80px;
+    }
+
+
+}

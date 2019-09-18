@@ -1,0 +1,6 @@
+[05-Aug-2019 01:01:50 America/Toronto] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 13
+[05-Aug-2019 01:01:50 America/Toronto] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 15
+[05-Aug-2019 01:09:42 America/Toronto] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 13
+[05-Aug-2019 01:09:42 America/Toronto] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 15
+[06-Aug-2019 09:40:50 America/Toronto] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 13
+[06-Aug-2019 09:40:50 America/Toronto] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/havzam/public_html/Webprog/assignments/a4-mert-havza/registerVerify.php on line 15
